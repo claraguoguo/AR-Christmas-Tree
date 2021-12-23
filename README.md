@@ -1,6 +1,6 @@
 # Christmas-Tree-AR-Unity
 
-An AR Unity app that allows the user to place a Christmas Tree in their scene and decorate it with gifts, ornaments and lights.
+An AR Unity app that allows the user to place a Christmas Tree in their scene and decorate it with gifts, ornaments and lights. The app is created using Unity. 
 
 This is a three-day project made by Clara Guo, Jason Tang and Hanzi Jiang.
 
