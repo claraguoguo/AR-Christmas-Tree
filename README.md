@@ -4,6 +4,9 @@ An AR Unity app that allows the user to place a Christmas Tree in their scene an
 
 This is a three-day project made by Clara Guo, Jason Tang and Hanzi Jiang.
 
+### Demo
+https://user-images.githubusercontent.com/50607367/147272424-af305abf-7a4f-4673-8fb5-98eef6d67a03.mp4
+
 ### Features
 * UI
     * Trees ScrollView: To select a Christmas tree
@@ -16,7 +19,4 @@ This is a three-day project made by Clara Guo, Jason Tang and Hanzi Jiang.
     * Single Tab: To Select Object
     * 2-Finger Pinch: To Scale Object
     * Hold & Drag: To Reposition Object
-
-### Demo
-https://user-images.githubusercontent.com/50607367/147272424-af305abf-7a4f-4673-8fb5-98eef6d67a03.mp4
 
